@@ -1,0 +1,15 @@
+.small-img {
+    width: 100px;
+    height: auto;
+}
+.sub-menu {
+    display: none;
+    padding-left: 20px;
+}
+#menu {
+    font-size: 14px; /* Ajusta el tamaño de la fuente según tus necesidades */
+}
+
+.list-group-item {
+    font-size: 12px; /* Ajusta el tamaño de la fuente según tus necesidades */
+}
